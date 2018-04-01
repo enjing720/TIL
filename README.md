@@ -39,7 +39,4 @@ Today I Learned. Daily commit.
 * __꾸준히 매일매일__ 의 법칙을 지키자 
 * 진짜 실력을 가지자
 
-![Alt text](/path/to/pi.jpg)
-<pi width="" height=""></pi>
-
  
